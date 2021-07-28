@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/background">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_row="0"
+        android:layout_column="0"
+        android:fontFamily="@font/nunito_semi_bold"
+        android:gravity="center"
+        android:letterSpacing="0.02"
+        android:paddingStart="15dp"
+        android:paddingTop="15dp"
+        android:paddingEnd="15dp"
+        android:paddingBottom="5dp"
+        android:text="@string/ask_permission"
+        android:textColor="@color/fontColor"
+        android:textSize="21sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_row="1"
+        android:layout_column="0"
+        android:fontFamily="@font/nunito_regular"
+        android:gravity="center"
+        android:text="@string/you_can_enable_it_later_in_settings"
+        android:textColor="@color/negativeChangeRed"
+        android:textSize="15sp" />
+
+    <Button
+        android:id="@+id/overlay_allow_permission"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_row="2"
+        android:layout_column="0"
+        android:background="@color/transparent"
+        android:clickable="true"
+        android:focusable="true"
+        android:fontFamily="@font/nunito_bold"
+        android:foreground="?android:attr/selectableItemBackground"
+        android:text="@string/allow"
+        android:textAllCaps="false"
+        android:textColor="@color/permissionButtonTextColor"
+        android:textSize="19sp" />
+
+    <Button
+        android:id="@+id/overlay_deny_permission"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_row="3"
+        android:layout_column="0"
+        android:background="@color/transparent"
+        android:clickable="true"
+        android:focusable="true"
+        android:fontFamily="@font/nunito_bold"
+        android:foreground="?android:attr/selectableItemBackground"
+        android:text="@string/deny"
+        android:textAllCaps="false"
+        android:textColor="@color/permissionButtonTextColor"
+        android:textSize="19sp" />
+
+    <Button
+        android:id="@+id/overlay_deny_and_do_not_ask_permission"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_row="4"
+        android:layout_column="0"
+        android:layout_marginBottom="10dp"
+        android:background="@color/transparent"
+        android:clickable="true"
+        android:focusable="true"
+        android:fontFamily="@font/nunito_bold"
+        android:foreground="?android:attr/selectableItemBackground"
+        android:text="@string/deny_don_t_ask_again"
+        android:textAllCaps="false"
+        android:textColor="@color/permissionButtonTextColor"
+        android:textSize="19sp" />
+
+</GridLayout>

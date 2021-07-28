@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#EDF5FA</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="noInternetBG">#2F2E41</color>
+
+    <color name="appBlueColor">#0099FF</color>
+
+    <color name="tab_text_normal_color">#8B8686</color>
+    <color name="negativeChangeRed">#EA4335</color>
+    <color name="positiveChangeGreen">#34A853</color>
+
+    // Font color
+    <color name="fontColor">#000000</color>
+    <color name="greyAndBlackFont">#8B8686</color>
+    <color name="blackAndWhiteFont">#000000</color>
+    <color name="whiteAndBlackFont">#FFFFFF</color>
+    <color name="whiteAndBlueFont">#FFFFFF</color>
+
+    <color name="settingsBackground">#FFFFFF</color>
+    <color name="tab_indicator_color">#000000</color>
+    <color name="SplashBackground">#FFFFFF</color>
+    <color name="cardBackground">#FFFFFF</color>
+    <color name="ratingsChangesBackground">#EDF5FA</color>
+    <color name="blackAndGrey">#474747</color>
+
+    <color name="buttonTextLightColor">#FFFFFF</color>
+
+    <color name="bottomSheetTop">#434075</color>
+    <color name="bottomSheetButtonTextColor">#2F2E41</color>
+
+    <color name="addReminderColor">#FEA758</color>
+    <color name="reminderAddedColor">#46CA7F</color>
+    <color name="nothingSVGBackgroundColor">#edf5fa</color>
+
+    <color name="graphGridsColor">#000000</color>
+    <color name="greyAndWhiteFont">#7E7A7A</color>
+
+    <color name="hackerEarthLogoColor">#2C3454</color>
+
+    <color name="radioButtonColor">#684273</color>
+
+    <color name="textHintColor">#8B8686</color>
+
+    <color name="permissionButtonTextColor">#FF01579B</color>
+
+    // CodeForces rating colors
+
+    <color name="codeForcesNewbieColor">#808080</color>
+    <color name="codeForcesPupilColor">#008000</color>
+    <color name="codeForcesSpecialistColor">#03a89e</color>
+    <color name="codeForcesExpertColor">#0000ff</color>
+    <color name="codeForcesCandidateMasterColor">#a0a</color>
+    <color name="codeForcesMasterColor">#ff8c00</color>
+    <color name="codeForcesGrandMasterColor">#ff0000</color>
+
+    // CodeChef star colors
+
+    <color name="oneStar">#666</color>
+    <color name="twoStar">#1e7d22</color>
+    <color name="threeStar">#36c</color>
+    <color name="fourStar">#684273</color>
+    <color name="fiveStar">#ffbf00</color>
+    <color name="sixStar">#ff7f00</color>
+    <color name="sevenStar">#D0011B</color>
+
+    // AtCoder rating colors
+
+    <color name="atCoderFiveDan">#808080</color>
+    // 0-399
+    <color name="atCoderSixDan">#804000</color>
+    // 400-799
+    <color name="atCoderSevenDan">#008000</color>
+    // 800-1199
+    <color name="atCoderEightDan">#00BFBF</color>
+    // 1200-1599
+    <color name="atCoderNineDan">#0000FD</color>
+    // 1600-1999
+    <color name="atCoderTenDan">#BFBF00</color>
+    // 2000-2399
+    <color name="atCoderLegend">#F47B00</color>
+    // 2400-2799
+    <color name="atCoderKing">#F30000</color>
+    // 2800
+
+    // LeetCode Colors
+
+    <color name="leetCodeHardColor">#e91e63</color>
+    <color name="leetCodeMediumColor">#fb8c00</color>
+    <color name="leetCodeEasyColor">#43a047</color>
+    <color name="leetCodeRankColor">#008000</color>
+
+
+    <color name="codeChefColor">#804827</color>
+    <color name="codeForcesColor">#1F8CCC</color>
+    <color name="leetCodeColor">#FFA116</color>
+    <color name="atCoderColor">#337ab7</color>
+    <color name="topCoderColor">#ffa45d</color>
+    <color name="hackerEarthColor">#323754</color>
+    <color name="hackerRankColor">#1ba94c</color>
+    <color name="kickStartColor">#fe112d</color>
+
+    <color name="purple_500">#FF6200EE</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="light_blue_600">#FF039BE5</color>
+    <color name="light_blue_900">#FF01579B</color>
+    <color name="light_blue_A200">#FF40C4FF</color>
+    <color name="light_blue_A400">#FF00B0FF</color>
+    <color name="black_overlay">#66000000</color>
+</resources>
